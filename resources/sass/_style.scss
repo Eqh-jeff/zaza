@@ -1,0 +1,15 @@
+.zaza-logo{
+    background-color: #00B8AD;
+    color: #FFF !important;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.bg-zaza{
+    background-color: #00B8AD;
+    color: #FFF;
+}
+
+.lotus{
+    background-image: url("{{ asset('images/lotus.png') }}");
+}
